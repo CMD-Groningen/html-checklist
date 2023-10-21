@@ -32,8 +32,13 @@ Zorg ervoor dat foto's of afbeeldingen de lay-out van je pagina niet in de war g
 ## Checken op foutjes
 Gebruik de **W3C Validator plug-in** voor HTML en de **CSSTree validator** voor CSS om je code op fouten te checken! Let op! Staat er wel ``<!DOCTYPE html>`` bovenaan je code in de HTML pagina? Want anders doet de Validator plugin het niet.
   
-## Netjes uitziende code
-Zorg dat je code er niet als onleesbare gatenkaas uitziet: Gebruik de **Prettier** extensie om je code te formateren door in je VS Code settings Prettier als standaard formateerder in te stellen en Format On Save aan te zetten! Zie Tips & Trucks PDF over VS Code op Blackboard.
+## Netjes inspringende code
+Zorg dat je code er niet als onleesbare gatenkaas uitziet: Gebruik de **Prettier** extensie om je code automatisch te formateren door in 
+- Rechtsklik in je HTML pegina, je krijgt dan een uitklapmenu
+- Kies daar voor "Format Document with..."
+- Je krijgt dan de keuze bovenin voor "Configure defaualt formatter"
+- Kies daar voor "Prettier" ("HTML Language Features" mag ook)
+- Daarnaast: zet "Format On Save" aan in je VS Code Settings! Zie Tips & Trucks PDF over VS Code [klik hier](sdsds).
   
 ## Terminologie
 Gebruik ook de benamingen die we tijdens de lessen gebruikt hebben en die in de powerpoints staan. HTML elementen, HTML attributen, wat is het verschil bijvoorbeeld tussen een CSS selector en een CSS property? Kun je aanwijzen welke CSS properties verantwoordelijk zijn voor de lay-out, kleur en typografie? (b.v. ik heb dit... gedaan omdat ik dat... effect wilde bereiken in mijn design)

@@ -1,6 +1,6 @@
 Er zit bij het downloaden ook een PDF versie in deze [ZIP](https://github.com/CMD-Groningen/html-checklist)  
 PDF versie gemaakt met **md2pdf.netlify.app**
-Hieronder de Markdown versie
+Hieronder de **Markdown** versie:
 
 # HTML Checklist
 

@@ -1,5 +1,5 @@
 PDF versie [klik hier](https://nbviewer.org/github/CMD-Groningen/html-checklist/blob/main/HTML%20Checklist.pdf)  
-PDF versie gemaakt met **md2pdf.netlify.app**
+PDF versie gemaakt met **md2pdf.netlify.app**  
 Hieronder de **Markdown** versie:
 
 # HTML Checklist

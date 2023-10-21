@@ -1,7 +1,7 @@
 # HTML Checklist
 
 ## Bestanden
-Zorg ervoor dat je HTML pagina ***index.html*** heet en geen andere naam! Plaats alle afbeeldingen netjes in een folder en noem die folder ***images***! Zorg dat je maar één CSS bestand hebt! Alle CSS code gaat in dit CSS bestand en alle HTML code gaat in je HTML pagina.
+Zorg ervoor dat je HTML pagina ***index.html*** heet en geen andere naam! Plaats alle afbeeldingen netjes in een folder en noem die folder :📁 ***images***! Zorg dat je maar één CSS bestand hebt! Alle CSS code gaat in dit CSS bestand en alle HTML code gaat in je HTML pagina.
   
 Zorg dat je bestandsnamen alleen uit kleinletters (geen hoofdletters) bestaan, en dat er geen spaties of vreemde tekens in de bestandsnamen voorkomen (nummers 0 tot en met 9 en – of _ mogen wel). Dus niet "Speelgoed Auto.jpg" maar "speelgoed-auto.jpg"!
 

@@ -3,7 +3,7 @@
 ## Bestanden
 Zorg ervoor dat je HTML pagina 📄 **index.html** heet en geen andere naam! Plaats alle afbeeldingen netjes in een folder en noem die folder 📁 **images**! Zorg dat je maar één CSS bestand hebt! Alle CSS code gaat in dit CSS bestand en alle HTML code gaat in je HTML pagina.
   
-Zorg dat je bestandsnamen alleen uit kleinletters (geen hoofdletters) bestaan, en dat er geen spaties of vreemde tekens in de bestandsnamen voorkomen (nummers 0 tot en met 9 en – of _ mogen wel). Dus niet "Speelgoed Auto.jpg" maar "speelgoed-auto.jpg"!
+Zorg dat je bestandsnamen alleen uit kleinletters (geen hoofdletters) bestaan, en dat er geen spaties of vreemde tekens in de bestandsnamen voorkomen (nummers 0 tot en met 9 en – of _ mogen wel). Dus niet **"Speelgoed Auto.jpg"** maar **"speelgoed-auto.jpg"**!
 
 ## Content in het midden
 Plaats je content in het midden van je HTML pagina in een HTML element, b.v. main en geef deze een bepaalde "max-width" mee in de CSS code: ``max-width:600px;`` Gebruik vervolgens CSS properties zoals bijv.margin: 0 auto; om content netjes in het midden te plaatsen (zodat de content centraal in het midden staat, en niet zomaar van links naar rechts loopt, of tegen de linkerrand van je pagina "botst" :-)

@@ -1,5 +1,5 @@
-PDF versie? Klik [hier](https://github.com/CMD-Groningen/html-checklist/blob/main/HTML%20Checklist.pdf)
-PDF versie gemaakt met https://md2pdf.netlify.app/
+PDF versie? Klik [hier](https://github.com/CMD-Groningen/html-checklist/blob/main/HTML%20Checklist.pdf) 
+PDF versie gemaakt met **md2pdf.netlify.app**
 # HTML Checklist
 
 ## Bestanden

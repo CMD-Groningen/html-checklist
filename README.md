@@ -22,7 +22,7 @@ margin: 0 auto;
 }
 ```
 ## Verschaalbare afbeeldingen
-Zorg ervoor dat foto's of afbeeldingen de lay-out van je pagina niet in de war gooien: laat afbeeldingen mee verschalen met je layout door het IMG element de volgende CSS eigenschap mee te geven in je CSS bestand: width:100%; height:auto;
+Zorg ervoor dat foto's of afbeeldingen de lay-out van je pagina niet in de war gooien: laat afbeeldingen mee verschalen met je layout door het IMG element de volgende CSS properties mee te geven in je CSS bestand: width:100%; height:auto;
    ```CSS
       IMG {
         width:100%;

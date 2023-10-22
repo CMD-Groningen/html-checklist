@@ -57,7 +57,7 @@ Zorg dat je code er niet als onleesbare gatenkaas uitziet: Gebruik de **Prettier
 - Kies daar voor "Format Document with..."
 - Je krijgt dan de keuze bovenin voor "Configure default formatter"
 - Kies daar voor "Prettier" ("HTML Language Features" mag ook)
-- Daarnaast: zet "Format On Save" aan in je VS Code Settings! Zie Vs CodeTips & Trucks PDF [klik hier](sdsds).
+- Daarnaast: zet "Format On Save" aan in je VS Code Settings! Zie Vs CodeTips & Trucks PDF [klik hier](https://cmd-groningen.github.io/vs-code-editor-tips/vscode-editor-tips-nl.pdf).
 
 ## Terminologie
 

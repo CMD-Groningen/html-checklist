@@ -1,4 +1,7 @@
-PDF versie [klik hier](https://cmd-groningen.github.io/html-checklist/html-checklist.pdf)      
+PDF versie [klik hier](https://cmd-groningen.github.io/html-checklist/html-checklist.pdf)    
+<a href="https://cmd-groningen.github.io/html-checklist" download>
+  dees
+</a>  
 PDF versie gemaakt met **md2pdf.netlify.app**  
 Hieronder de **Markdown** versie:
 

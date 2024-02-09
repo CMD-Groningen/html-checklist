@@ -10,7 +10,7 @@ Zorg dat je bestandsnamen alleen uit kleinletters (geen hoofdletters) bestaan, e
 
 ## Content in het midden
 
-Plaats content die je in het midden wilt van je HTML pagina in een HTML element, b.v. ``<main>`` en geef deze een bepaalde "max-width" mee in de CSS code: ``max-width:600px;`` Gebruik vervolgens CSS properties zoals bijv.margin: 0 auto; om content netjes in het midden te plaatsen (zodat de content centraal in het midden staat, en niet zomaar van links naar rechts loopt, of tegen de linkerrand van je pagina "botst" :-)
+Plaats content die je in het midden wilt van je HTML pagina in een HTML element, b.v. ``<main>`` en geef deze een bepaalde "max-width" mee in de CSS code: ``max-width:600px;`` Gebruik vervolgens CSS properties zoals bijvoorbeeld ``margin: 0 auto;`` om content netjes in het midden te plaatsen (zodat de content centraal in het midden staat, en niet zomaar van links naar rechts loopt, of tegen de linkerrand van je pagina "botst" :-)
 
 #### In je HTML pagina:
 ```HTML

@@ -21,7 +21,7 @@ Hier de content van je pagina die je in het midden wilt
 #### In je CSS bestand:
 ```CSS
 main {
-max-width: 600px;
+max-width: 600px; // hangt van je voorkeur af, kan ook bv 800px zijn
 margin: 0 auto;
 }
 ```

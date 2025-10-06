@@ -41,7 +41,7 @@ Zorg ervoor dat foto's of afbeeldingen de lay-out van je pagina niet in de war g
 
 Gebruik de **W3C Validator plug-in** voor HTML en de **CSSTree validator** voor CSS om je code op fouten te checken! Let op! Staat er wel ``<!DOCTYPE html>`` bovenaan je code in de HTML pagina? Want anders doet de Validator plugin het niet. Check ook je CSS bestand op fouten door de **CSSTree Validator** plugin dat automatisch voor je te laten doen.
 
-## Netjes inspringende code
+## ✅ Netjes inspringende code
 
 Zorg dat je code er niet als onleesbare gatenkaas uitziet: Gebruik de **Prettier** extensie in VS Code, om je code automatisch te formateren door het volgende te doen:
 
